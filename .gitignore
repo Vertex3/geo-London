@@ -101,4 +101,5 @@ ENV/
 
 # file gdb
 # content/data/ETL_LONDON.gdb/*
-ETL_LONDON.gdb/
+*.gdb/
+XRay/
