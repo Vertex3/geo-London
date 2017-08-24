@@ -98,3 +98,7 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# file gdb
+# content/data/ETL_LONDON.gdb/*
+ETL_LONDON.gdb/
