@@ -11,9 +11,9 @@ import arcpy
 
 
 # Local variables:
-Roads__3_ = "C:\\Users\\Steve\\Documents\\GitHub\\geo-London\\content\\data\\ETL_LONDON_TARGET.gdb\\Roads"
+Roads__3_ = "C:\\Users\\Steve\\Documents\\GitHub\\geo-London\\content\\data\\ETL_LONDON.gdb\\Roads"
 Roads__4_ = Roads__3_
-Roads = "C:\\Users\\Steve\\Documents\\GitHub\\geo-London\\content\\data\\ETL_LONDON_TARGET.gdb\\Roads"
+Roads = "C:\\Users\\Steve\\Documents\\GitHub\\geo-London\\content\\data\\ETL_LONDON.gdb\\Roads"
 Roads__2_ = Roads
 
 # Process: Calculate Field

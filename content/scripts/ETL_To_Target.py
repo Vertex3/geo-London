@@ -14,8 +14,8 @@ arcpy.ImportToolbox("C:/Users/Steve/Documents/GitHub/geo-London/gzTools/Gizinta.
 
 
 # Local variables:
-ETL_LONDON_gdb = "C:\\Users\\Steve\\Documents\\GitHub\\geo-London\\content\\data\\ETL_LONDON.gdb"
-ETL_LONDON_TARGET_gdb = "C:\\Users\\Steve\\Documents\\GitHub\\geo-London\\content\\data\\ETL_LONDON_TARGET.gdb"
+ETL_LONDON_gdb = "C:\\Users\\Steve\\Documents\\GitHub\\geo-London\\content\\data\\ETL_LONDON_SOURCE.gdb"
+ETL_LONDON_TARGET_gdb = "C:\\Users\\Steve\\Documents\\GitHub\\geo-London\\content\\data\\ETL_LONDON.gdb"
 success = "true"
 
 # Process: replaceRowsGDB
