@@ -1,0 +1,7 @@
+Dependencies:
+Any map that uses the roads outline feature class may be impacted by a field change.
+The integer field Subtype is changing to a string field SType. This may impact symbology in some maps.
+
+Test plan:
+Any Map services that use the roads layer should be verified during dev/test timeframe
+Testing simple involves opening map documents and verifying that symbols and data sources are not impacted.
