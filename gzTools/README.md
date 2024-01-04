@@ -4,7 +4,7 @@ The primary use for Gizinta is to move data between Geodatabases within and betw
 
 Geodatabase feature classes, tables, map layers, and CAD drawings are all supported.
 
-Check us out at http://gizinta.com
+Check us out at 
 
 Works on ArcGIS 10.1. ArcGIS Standard or higher license is required.
 
